@@ -30,8 +30,6 @@ abstract class Animal {
   void emitirSonido();
 }
 
-
-
 // De esta forma creamos una clase que implementa, hereda class Animal
 // Una clase que implenta una clase abstracta debe declarar los elementos de ésta
 class Perro implements Animal {
